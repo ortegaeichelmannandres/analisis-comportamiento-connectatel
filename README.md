@@ -50,4 +50,4 @@ El proyecto genera diversos gráficos estadísticos para apoyar las conclusiones
 - Volumen de mensajería por segmento.
 
 ---
-_Este proyecto forma parte de mi portafolio de un proyecto del bootcamp de **Triple Ten**_
+_Este proyecto forma parte de mi portafolio del bootcamp de Data Analist por **Triple Ten**_
